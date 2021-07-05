@@ -1,7 +1,4 @@
-<meta charset="UTF-8">
-<title>Lake Resort || Responsive BootStrap HTML 5 Template</title>
-<!-- reponsive meta-->
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <!-- Bootstrap-->
 <link  href="{{URL::asset('assets/css/bootstrap.min.css')}}" rel="stylesheet">
 <link href="{{URL::asset('assets/css/font-awesome.min.css')}}"   rel="stylesheet">
