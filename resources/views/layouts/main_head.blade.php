@@ -49,13 +49,7 @@
       <div id="main-navigation" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
           <li><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Home <span class="glyphicon glyphicon-chevron-down"></span></a>
-            <ul class="dropdown-submenu dropdown-menu">
-              <li><a href="index.html">Home Default</a></li>
-              <li><a href="index-2.html">Home 2</a></li>
-              <li><a href="index-3.html">Home 3</a></li>
-              <li><a href="index-4.html">Home 4</a></li>
-              <li><a href="index-5.html">Home 5</a></li>
-            </ul>
+            
           </li>
           <li><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">About Us <span class="glyphicon glyphicon-chevron-down"></span></a>
             <ul class="dropdown-submenu dropdown-menu">
